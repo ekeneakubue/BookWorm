@@ -77,4 +77,18 @@
     .about_us .right img{
         height: 35vh;
     }
+
+
+    .mission{
+        flex-direction: column-reverse; 
+    }
+    .mission .left {
+        width: 100%;
+    }
+    .mission .right{
+        width: 100%;
+    }
+    .mission  img{
+        height: 35vh;
+    }
 }
