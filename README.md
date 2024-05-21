@@ -1,15 +1,8 @@
-# BookWorm App
-Bookworm is a user-friendly web application designed to act as a central hub for students to access free E-books, organize their study materials, and leverage AI functionalities for summarizing, querying, and quiz creation. 
+# React + Vite
 
-## Features
-- Users can signUp
-- Users can search for ebooks by author and book title.
-- Users can save their favourite books to their bookshelf.
-- Users can upload their own books to bookworm.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Tools Used 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- React Icons
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
